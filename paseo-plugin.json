@@ -1,0 +1,9 @@
+{
+  "id": "paseo-env-sync",
+  "name": "Environment sync",
+  "description": "Keep plugins and settings in sync across Paseo environments with a global profile and sub-profiles.",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.17.4"
+  }
+}
